@@ -1,47 +1,21 @@
 ![](media/image2.jpg){width="2.7496237970253716in"
 height="0.7155850831146107in"}[]{dir="ltr"}
 
-[]{dir="ltr"}
-
-[]{dir="ltr"}
-
-[]{dir="ltr"}
-
-[]{dir="ltr"}
-
 **[Information Security Context, Requirements and Scope]{dir="ltr"}**
 
-[]{dir="ltr"}
-
-[]{dir="ltr"}
-
-[]{dir="ltr"}
-
-[]{dir="ltr"}
-
-[]{dir="ltr"}
-
-[]{dir="ltr"}
 
 [ISO/IEC 27001 Toolkit Version 9]{dir="ltr"}
 
 [©CertiKit]{dir="ltr"}
 
-[]{dir="ltr"}
-
-[]{dir="ltr"}
-
-[]{dir="ltr"}
-
-[]{dir="ltr"}
 
 +-----------------------------------------------------------------------+
-| **[Implementation Guidance]{dir="ltr"}**                              |
+| **[Implementation Guidance]**                                         |
 |                                                                       |
 | **[(The header page and this section must be removed from final       |
 | version of the document)]{dir="ltr"}**                                |
 |                                                                       |
-| []{dir="ltr"}                                                         |
+|                                                                       |
 +=======================================================================+
 | []{dir="ltr"}                                                         |
 |                                                                       |
