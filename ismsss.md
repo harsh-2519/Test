@@ -13,29 +13,13 @@ Requirements and Scope
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-Document Classification:
-[Insert Classification]
-Document Ref.
-ISMS-DOC-04-1
-Version:
-1
-Dated:
-Insert date]
-Document Author:
-
-Document Owner:
+Document Classification: | [Insert Classification]
+------------------------ | -----------------------
+Document Ref.| ISMS-DOC-04-1
+Version: | 1
+Dated: | Insert date]
+Document Author: |
+Document Owner: |
 
 
 
@@ -44,37 +28,26 @@ Document Owner:
 
 Revision History 
 
-Version
-Date
-Revision Author
-Summary of Changes
-
-
-
-
-
+Version | Date | Revision Author | Summary of Changes
+------- | ---- | --------------- | -------------------
+  info  |      |                 |                    
+  info  |      |                 |                     
+  info  |      |                 |                    
 
 
 
 
 Distribution
 
-Name
-Title
-
-
-
-
-
-
+Name | Title
+---- | ------
+info | ------
 
 Approval
 
-Name
-Position
-Signature
-Date
-
+Name | Position | Signature | Date
+---- | -------- | --------- | -----
+info |          |           |       
 
 
 
