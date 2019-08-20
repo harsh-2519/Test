@@ -11,15 +11,12 @@ ISO/IEC 27001 Toolkit Version 9
 | --------------------------------------------------------------------- |
 | **Purpose of this document**                                                                                                 
 This document sets out the organizational context of the ISMS. It describes what the organization does, how it does it, what factors influence the way it operates and the reasons for the definition of the scope of the ISMS |
-|---------------------------------------------------------------------- |
-| **Areas of the standard addressed**
-
-This document addresses many of the requirements in section 4 --"Context of the Organization" in the ISO/IEC 27001:2013 standard. This includes:                                                                                                    
- * 4 Context of the Orgnisation
-  * 4.1 Understanding of the organization and its context
-  * 4.2 Understanding the needs and expectations of interested parties
-  * 4.3 Determining the scope of the ISMS
-  * 4.4 Information security management system | 
+| ---------------------------------------------------------------------- |
+| **Areas of the standard addressed**This document addresses many of the requirements in section 4 --"Context of the Organization" in the ISO/IEC 27001:2013 standard. This includes:* 4 Context of the Orgnisation
+    4.1 Understanding of the organization and its context
+    4.2 Understanding the needs and expectations of interested parties
+    4.3 Determining the scope of the ISMS
+    4.4 Information security management system | 
 | --------------------------------------------------------------------- |
 | **General Guidance**                                                  |
 |                                                                       |
