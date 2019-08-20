@@ -6,14 +6,13 @@ ISO/IEC 27001 Toolkit Version 9
 
 ©CertiKit
 
-**\
-**
-
+| --------------------------------------------------------------------- |
 | **Implementation Guidance**                                           |
 |                                                                       |
 | **(The header page and this section must be removed from final        |
 | version of the document)**                                            |
-+=======================================================================+
+| --------------------------------------------------------------------- |
+
 | **Purpose of this document**                                          |
 |                                                                       |
 | This document sets out the organizational context of the ISMS. It     |
@@ -162,8 +161,8 @@ ISO/IEC 27001 Toolkit Version 9
 
 **Requirements and Scope**
 
-  **Document Classification:**   \[Insert Classification\]
-  ------------------------------ ---------------------------
+  | **Document Classification:**  | \[Insert Classification\] |
+  | --------------------------- | ------------------------- |
   **Document Ref.**              **ISMS-DOC-04-1**
   **Version:**                   **1**
   **Dated:**                     **\[Insert date\]**
