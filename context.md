@@ -1,4 +1,139 @@
+![](media/image1.jpeg)
+
+**Information Security Context, Requirements and Scope**
+
+ISO/IEC 27001 Toolkit Version 9
+
 ©CertiKit
+
+
+| **Implementation Guidance**                                           |
+| --------------------------------------------------------------------- |
+| **Purpose of this document**                                                                                                 
+This document sets out the organizational context of the ISMS. It describes what the organization does, how it does it, what factors influence the way it operates and the reasons for the definition of the scope of the ISMS |
+| ---------------------------------------------------------------------- |
+| **Areas of the standard addressed**
+This document addresses many of the requirements in section 4 --"Context of the Organization" in the ISO/IEC 27001:2013 standard. This includes:*
+***4 Context of the Orgnisation***
+4.1 Understanding of the organization and its context.
+4.2 Understanding the needs and expectations of interested parties.
+4.3 Determining the scope of the ISMS.
+4.4 Information security management system | 
+| --------------------------------------------------------------------- |
+| **General Guidance**                                                  |
+|                                                                       |
+ If your organization already has ISO9001 certification then much of the contents of this document may already be documented, in which case this information will need to be readily available at the |
+| ISO/IEC 27001 audit                                                                       
+| This is an absolutely key document that will need involvement from    |
+| senior management to put together. In overview, it describes why an   |
+| effective ISMS is needed and what may happen to the organization if   |
+| one is not in place. The business impact analyses and risk            |
+| assessments required by later sections of the standard will then      |
+| define this in more detail.                                           |
+|                                                                       |
+| As part of the implementation you may need to meet with the various   |
+| interested parties to understand their view of the risk areas and     |
+| consequences of failure. You may also need to obtain legal advice if  |
+| your industry is subject to significant legal or regulatory           |
+| requirements.                                                         |
+|                                                                       |
+| As with most of the documents in the ISMS you should ensure that all  |
+| relevant parties are aware of the contents of this document,          |
+| particularly as it sets out the need for additional procedures which  |
+| may involve asking employees to do more work. Understanding the       |
+| reason for this may reduce resistance to the ISMS within the          |
+| organization.                                                         |
+|                                                                       |
+| It is worth spending some time getting the scope of the ISMS right as |
+| the other areas of the standard rely upon this. As with most          |
+| international standards, it is acceptable to start with a limited     |
+| scope definition and then to expand it over time as more familiarity  |
+| and experience is gained by the organization.                         |
+| --------------------------------------------------------------------- |
+| **Review Frequency**                                                  |
+|                                                                       |
+| We would recommend that this document is reviewed as part of an       |
+| annual exercise which should include significant business involvement |
+| to ensure that changed requirements are captured and feedback         |
+| obtained.                                                             |
+| --------------------------------------------------------------------- |
+| **Toolkit Version Number**                                            |
+|                                                                       |
+| ISO/IEC 27001 Toolkit Version 9 ©CertiKit.                            |
+| --------------------------------------------------------------------- |
+| **Document Fields**                                                   |
+|                                                                       |
+| This document may contain fields which need to be updated with your   |
+| own information, including a field for Organization Name that is      |
+| linked to the custom document property "Organization Name".           |
+|                                                                       |
+| To update this field (and any others that may exist in this document) |
+| in Word 2010:                                                         |
+|                                                                       |
+| 1.  Update the custom document property "Organization Name" by        |
+|     clicking File \> Info \> Properties \> Advanced Properties \>     |
+|     Custom \> Organization Name                                       |
+|                                                                       |
+| 2.  Press Ctrl a on the keyboard to select all text in the document   |
+|     (or use Select, Select All on the ribbon)                         |
+|                                                                       |
+| 3.  Press F9 on the keyboard to update all fields                     |
+|                                                                       |
+| 4.  When prompted, choose the option to just update TOC page numbers  |
+|                                                                       |
+| If you wish to permanently convert the fields in this document to     |
+| text i.e. so that they are no longer updateable, then you will need   |
+| to click into each occurrence of the field and press Ctrl Shift F9.   |
+|                                                                       |
+| If you would like to make all fields in the document visible then go  |
+| to File \> Options \> Advanced \> Show document content \> Field      |
+| shading and set this to "Always". This can be useful to check that    |
+| you have updated all fields correctly.                                |
+|                                                                       |
+| Further detail on the above procedure can be found in the *Toolkit    |
+| Completion Instructions.*                                             |
+| --------------------------------------------------------------------- |
+| **Copyright notice**                                                  |
+|                                                                       |
+| Except for any third party works included in this document, as        |
+| identified in this document, this document has been authored by       |
+| CertiKit, and is © copyright CertiKit except as stated below.         |
+|                                                                       |
+| CertiKit is a company registered in England and Wales with company    |
+| number 6432088.                                                       |
+| --------------------------------------------------------------------- |
+| **Licence terms**                                                     |
+|                                                                       |
+| This document is licensed on and subject to the standard licence      |
+| terms of CertiKit, available on request, or by download from our      |
+| website. All other rights are reserved. Unless you have purchased     |
+| this product you only have an evaluation licence. If this product was |
+| purchased, a full licence is granted to the person identified as the  |
+| licensee in the relevant purchase order. The standard licence terms   |
+| include special terms relating to any third-party copyright included  |
+| in this document.                                                     |
+| ---------------------------------------------------------------------
+| **Disclaimer**                                                        |
+|                                                                       |
+| **Please Note:** *Your use of and reliance on this document template  |
+| is at your sole risk. Document templates are intended to be used as a |
+| starting point only from which you will create your own document and  |
+| to which you will apply all reasonable quality checks before use.     |
+| Therefore please note that it is your responsibility to ensure that   |
+| the content of any document you create that is based on our templates |
+| is correct and appropriate for your needs and complies with relevant  |
+| laws in your country. You should take all reasonable and proper legal |
+| and other professional advice before using this document. CertiKit    |
+| makes no claims, promises, or guarantees about the accuracy,          |
+| completeness, or adequacy of our document templates, assumes no duty  |
+| of care to any person with respect its document templates or their    |
+| contents, and expressly excludes and disclaims liability for any      |
+| cost, expense, loss or damage suffered or incurred in reliance on our |
+| document templates, or in expectation of our document templates       |
+| meeting your needs, including (without limitation) as a result of     |
+| misstatements, errors and omissions in their contents.*               |
+| --------------------------------------------------------------------- |
+
 ![](media/image1.jpeg)
 
 **\[Replace with your logo\]**
