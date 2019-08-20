@@ -572,9 +572,7 @@ The following activities are within the scope of the ISMS:
 
 
 
-1.
-  1.
-    1. 5.4.4Exclusions
+ *Exclusions*
 
 The following areas are specifically excluded from the scope of the ISMS:
 
