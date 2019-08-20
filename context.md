@@ -15,9 +15,9 @@ This document sets out the organizational context of the ISMS. It describes what
 | **Areas of the standard addressed**
 This document addresses many of the requirements in section 4 --"Context of the Organization" in the ISO/IEC 27001:2013 standard. This includes:*
 ***4 Context of the Orgnisation***
-4.1 Understanding of the organization and its context
-4.2 Understanding the needs and expectations of interested parties
-4.3 Determining the scope of the ISMS
+4.1 Understanding of the organization and its context.
+4.2 Understanding the needs and expectations of interested parties.
+4.3 Determining the scope of the ISMS.
 4.4 Information security management system | 
 | --------------------------------------------------------------------- |
 | **General Guidance**                                                  |
