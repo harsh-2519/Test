@@ -6,20 +6,11 @@ ISO/IEC 27001 Toolkit Version 9
 
 ©CertiKit
 
-| --------------------------------------------------------------------- |
-| **Implementation Guidance**                                           |
-|                                                                       |
-| **(The header page and this section must be removed from final        |
-| version of the document)**                                            |
-| --------------------------------------------------------------------- |
 
-| **Purpose of this document**                                          |
-|                                                                       |
-| This document sets out the organizational context of the ISMS. It     |
-| describes what the organization does, how it does it, what factors    |
-| influence the way it operates and the reasons for the definition of   |
-| the scope of the ISMS.                                                |
-+-----------------------------------------------------------------------+
+| **Implementation Guidance**                                           |
+| --------------------------------------------------------------------- |
+| **Purpose of this document**                                                                                                 This document sets out the organizational context of the ISMS. It describes what the organization does, how it does it, what factors influence the way it operates and the reasons for the definition of the scope of the ISMS |
+|---------------------------------------------------------------------- |
 | **Areas of the standard addressed**                                   |
 |                                                                       |
 | This document addresses many of the requirements in section 4 --      |
@@ -151,7 +142,7 @@ ISO/IEC 27001 Toolkit Version 9
 | document templates, or in expectation of our document templates       |
 | meeting your needs, including (without limitation) as a result of     |
 | misstatements, errors and omissions in their contents.*               |
-+-----------------------------------------------------------------------+
+| --------------------------------------------------------------------- |
 
 ![](media/image1.jpeg)
 
