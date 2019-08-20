@@ -9,7 +9,6 @@ ISO/IEC 27001 Toolkit Version 9
 **\
 **
 
-+-----------------------------------------------------------------------+
 | **Implementation Guidance**                                           |
 |                                                                       |
 | **(The header page and this section must be removed from final        |
